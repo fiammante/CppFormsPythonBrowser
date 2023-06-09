@@ -1,0 +1,4 @@
+C:\Users\admin-17417\source\repos\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\x64\Release\CppCLR_WinForms_GUI1.vcxproj.AssemblyReference.cache
+C:\Users\admin-17417\source\repos\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\x64\Release\CppCLR_WinForms_GUI1.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\admin-17417\source\repos\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\x64\Release\CppCLR_WinForms_GUI1.CallPythonForm.resources
+C:\Users\admin-17417\source\repos\CppCLR_WinForms_GUI1\CppCLR_WinForms_GUI1\x64\Release\CppCLR_WinForms_GUI1.vcxproj.GenerateResource.cache

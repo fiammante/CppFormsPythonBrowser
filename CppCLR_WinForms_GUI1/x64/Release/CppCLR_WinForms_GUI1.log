@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  CppCLR_WinFormsProject.cpp
+  CallPythonForm.cpp
+  Source.cpp
+  .NETFramework,Version=v4.7.2.AssemblyAttributes.cpp
+  Génération de code en cours...
+  AssemblyInfo.obj : module MSIL détecté ; liens incrémentiels désactivés pour MSIL ; édition de liens complète en cours
+  CppCLR_WinForms_GUI1.vcxproj -> C:\Users\admin-17417\source\repos\CppCLR_WinForms_GUI1\x64\Release\CppCLR_WinForms_GUI1.exe
